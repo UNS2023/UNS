@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Imagen desde GitHub</title>
+</head>
+<body>
+    <img src="https://github.com/TU_USUARIO/mi-repositorio/blob/main/images/imagen.jpg" alt="Imagen desde GitHub">
+</body>
+</html>
